@@ -1,0 +1,11 @@
+Model Information:
+* title:	MMC Generic Small SUV Car
+* source:	https://sketchfab.com/3d-models/mmc-generic-small-suv-car-5db696c6ed5d4bdc87905c1040fa072a
+* author:	MMC Works (https://sketchfab.com/mmcworks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MMC Generic Small SUV Car" (https://sketchfab.com/3d-models/mmc-generic-small-suv-car-5db696c6ed5d4bdc87905c1040fa072a) by MMC Works (https://sketchfab.com/mmcworks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

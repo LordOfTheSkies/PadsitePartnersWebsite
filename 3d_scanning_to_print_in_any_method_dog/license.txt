@@ -1,0 +1,8 @@
+Model Information:
+* title:	3D scanning to print in any method (Dog)
+* source:	https://sketchfab.com/3d-models/3d-scanning-to-print-in-any-method-dog-18dd144fbd134d5099051ac67a7f51c2
+* author:	BUY AND PRINT (https://sketchfab.com/PolygonsMiniatures)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

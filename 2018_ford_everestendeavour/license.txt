@@ -1,0 +1,11 @@
+Model Information:
+* title:	2018 Ford Everest/Endeavour
+* source:	https://sketchfab.com/3d-models/2018-ford-everestendeavour-a6681649d203483c95239c4b73157697
+* author:	BHP3D (https://sketchfab.com/BHP3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2018 Ford Everest/Endeavour" (https://sketchfab.com/3d-models/2018-ford-everestendeavour-a6681649d203483c95239c4b73157697) by BHP3D (https://sketchfab.com/BHP3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

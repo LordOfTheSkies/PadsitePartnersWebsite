@@ -1,0 +1,11 @@
+Model Information:
+* title:	animated Pitbull dog
+* source:	https://sketchfab.com/3d-models/animated-pitbull-dog-2a403e6e80c346f0a1f8d6dcdc58882c
+* author:	Game-animal ripper (https://sketchfab.com/game-ripper)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "animated Pitbull dog" (https://sketchfab.com/3d-models/animated-pitbull-dog-2a403e6e80c346f0a1f8d6dcdc58882c) by Game-animal ripper (https://sketchfab.com/game-ripper) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

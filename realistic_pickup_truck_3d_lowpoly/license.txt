@@ -1,0 +1,11 @@
+Model Information:
+* title:	Realistic Pickup truck 3D Lowpoly
+* source:	https://sketchfab.com/3d-models/realistic-pickup-truck-3d-lowpoly-ae1b1715dcd940de8064af5159fe1266
+* author:	vukhiemton (https://sketchfab.com/vukhiemton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Realistic Pickup truck 3D Lowpoly" (https://sketchfab.com/3d-models/realistic-pickup-truck-3d-lowpoly-ae1b1715dcd940de8064af5159fe1266) by vukhiemton (https://sketchfab.com/vukhiemton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
