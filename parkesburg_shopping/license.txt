@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parkesburg Shopping
+* source:	https://sketchfab.com/3d-models/parkesburg-shopping-41af4827430845cba0a306663762f425
+* author:	myparadisepilot (https://sketchfab.com/myparadisepilot)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parkesburg Shopping" (https://sketchfab.com/3d-models/parkesburg-shopping-41af4827430845cba0a306663762f425) by myparadisepilot (https://sketchfab.com/myparadisepilot) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
