@@ -1,0 +1,11 @@
+Model Information:
+* title:	commercial building concept
+* source:	https://sketchfab.com/3d-models/commercial-building-concept-480a1743bf364e629cc5a63aef139fb6
+* author:	VertaScan (https://sketchfab.com/VertaScan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "commercial building concept" (https://sketchfab.com/3d-models/commercial-building-concept-480a1743bf364e629cc5a63aef139fb6) by VertaScan (https://sketchfab.com/VertaScan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

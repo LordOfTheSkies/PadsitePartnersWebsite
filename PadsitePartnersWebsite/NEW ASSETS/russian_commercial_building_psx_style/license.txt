@@ -1,0 +1,11 @@
+Model Information:
+* title:	Russian Commercial Building PSX Style
+* source:	https://sketchfab.com/3d-models/russian-commercial-building-psx-style-180f8f3f62884705a83ba72d305dc783
+* author:	crime100 (https://sketchfab.com/pavelkravcov492)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Russian Commercial Building PSX Style" (https://sketchfab.com/3d-models/russian-commercial-building-psx-style-180f8f3f62884705a83ba72d305dc783) by crime100 (https://sketchfab.com/pavelkravcov492) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
